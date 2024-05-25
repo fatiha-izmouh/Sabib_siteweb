@@ -1,7 +1,8 @@
-🌊 Intelligent Water Flow Measurement System 🌊
+**🌊 Sabib 🌊**
 
-📜 Overview
-Our project aims to tackle the critical issue of water management by providing a smart solution to monitor water consumption efficiently. The main features include:
+**📜 Overview**
+Our project aims to tackle the critical issue of water management by providing a smart solution to monitor water consumption efficiently. 
+The main features include:
 
 Advanced Water Flow Measurement Device
 Leak Detection
