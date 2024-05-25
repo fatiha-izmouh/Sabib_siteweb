@@ -8,7 +8,7 @@ Our project aims to tackle the critical issue of water management by providing a
 
 - **Advanced Water Flow Measurement Device**
 - **Leak Detection**
-Remote Control Application
+- **Remote Control Application**
 🌍 Motivation
 Conservation of Water
 Avoidance of Waste
