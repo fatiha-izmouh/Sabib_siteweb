@@ -3,10 +3,11 @@
 **📜 Overview**
 
 Our project aims to tackle the critical issue of water management by providing a smart solution to monitor water consumption efficiently. 
-The main features include:
 
-Advanced Water Flow Measurement Device
-Leak Detection
+### The main features include:
+
+- **Advanced Water Flow Measurement Device**
+- **Leak Detection**
 Remote Control Application
 🌍 Motivation
 Conservation of Water
